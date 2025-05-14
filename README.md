@@ -2,3 +2,5 @@
 example for maven study
 # purpose
 simple understanding of maven
+# simple
+hi
